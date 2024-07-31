@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Elena
 
 ## About Me
-- 👀 I’m a student at Northcoders bootcamp that I will complete in July 2024
+- 👀 I have just completed the Northcoders bootcamp 
 - 💻 I’m currently working on my project NC News, a full stack application similar to Reddit where users can read articles, leave comments, vote for articles and comments and upload new articles.
 - 🎓 Passionate about learning and continuously improving my skills in web development and software engineering.
 

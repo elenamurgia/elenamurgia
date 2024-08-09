@@ -6,8 +6,8 @@
 - 🎓 Passionate about learning and continuously improving my skills in web development and software engineering.
 
 ## Interests
-- 👀 I’m deeply interested in frontend and backend development, and I'm enthusiastic about learning new technologies and frameworks.
-- 💞️ I’m looking to collaborate on open-source projects, particularly those involving Java, JavaScript, React, Node.js, and Express.
+- I’m deeply interested in frontend and backend development, and I'm enthusiastic about learning new technologies and frameworks.
+- I’m looking to collaborate on open-source projects, particularly those involving Java, Python, JavaScript, React, Node.js, and Express.
 
 ## Get in Touch 
 - 📫 How to reach me: https://www.linkedin.com/in/elena-m-169068278/

@@ -1,16 +1,18 @@
-# 👋 Hi, I’m Elena
+# 👋 Hi, I’m Elena  
 
-## About Me
-- 👀 I have just completed the Northcoders bootcamp 
-- 💻 I’m currently working on my project NC News, a full stack application similar to Reddit where users can read articles, leave comments, vote for articles and comments and upload new articles.
-- 🎓 Passionate about learning and continuously improving my skills in web development and software engineering.
+## About Me  
+🚀 I have completed the **Northcoders full-stack bootcamp** and the **Firebrand Java bootcamp**.  
+🎓 I’m currently doing the **CFGdegree in Python**, expanding my skills in backend development and software engineering.  
+💻 I recently completed a **project for art enthusiasts**, a web application built with JavaScript, Firebase, React, HTML, CSS and Bootstrap.  
+🛠️ I’m currently improving **NC News**, a full-stack web application similar to Reddit, where users can read articles, leave comments, vote for articles and comments and upload new articles.  
 
-## Interests
-- I’m deeply interested in frontend and backend development, and I'm enthusiastic about learning new technologies and frameworks.
-- I’m looking to collaborate on open-source projects, particularly those involving Java, Python, JavaScript, React, Node.js, and Express.
+## Interests  
+💡 I'm particularly interested in frontend and backend development and love working with **JavaScript, React, Node.js and Python**.  
+📌 I'm currently learning Java and expanding my expertise in software engineering.  
+🌍 I’m open to collaborating on open-source projects, especially those involving Java, Python, JavaScript and React.  
 
-## Get in Touch 
-- 📫 How to reach me: https://www.linkedin.com/in/elena-m-169068278/
+## Get in Touch  
+📫 You can reach me on LinkedIn: [Elena Murgia](https://www.linkedin.com/in/elena-m-169068278/)  
 
 <!---
 elenamurgia/elenamurgia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
